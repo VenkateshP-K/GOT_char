@@ -1,0 +1,20 @@
+body{
+    background-image:url('https://revenue-hub.com/wp-content/uploads/2019/04/game-of-thrones-revenue-manager-traits.jpg');
+}
+.card{
+    padding: 10px;
+    margin: 15px;
+    background-color: black;
+    color:rgb(100, 4, 4);
+    height:500px;
+    border: 2px solid black;
+}
+h2{
+    text-align: center;
+    margin: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    color:rgb(175, 26, 26);
+}
+.card-img-top{
+    height: 300px;
+}
